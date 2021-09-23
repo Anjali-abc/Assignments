@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>class</title>
+	<style>
+	article > ol{
+		background-color: lightpink;
+	}
+</style>
+</head>
+<body>
+<h1>ARRAYS</h1>
+<h2>Introduction</h2>
+
+<p>An array is a fixed size sequenced collection of elements of the same data type.It is simply a grouping of like type data.</p>
+<p>In its simplest form,an array can be used to represent a list of numbers,or a list of names.</p>
+<p>Some examples where the concept of an array can be used:</p>
+<article>
+<ol type="1">
+	<li>List of temperatures recorded every hour in a day,month or a year.</li>
+	<li>List of employees in an organization.</li>
+	<li>List of products and their cost sold by a store.</li>
+</ol>
+</article>
+</body>
+</html>
