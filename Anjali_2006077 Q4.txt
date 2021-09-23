@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>class</title>
+	<style>
+	.Big {
+		font-size: 20px;
+
+
+	}
+</style>
+</head>
+<body style="text-align: center;">
+<h1 class="Big">ARRAYS</h1>
+<h2 class="Big">Introduction</h2>
+
+<p class="Big" style="background-color: green;">An array is a fixed size sequenced collection of elements of the same data type.It is simply a grouping of like type data.</p>
+<p class="Big" style="background-color:green;">In its simplest form,an array can be used to represent a list of numbers,or a list of names.</p>
+
+</body>
+</html>
