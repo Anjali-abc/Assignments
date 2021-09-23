@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>class</title>
+	<style>
+	.ad {
+		color: blue;
+		font-style: italic;
+	}
+	.sd {
+		background-color: red;
+		font-style: italic;
+	}
+</style>
+</head>
+<body style="text-align: center;">
+<h1>ARRAYS</h1>
+<h2>Introduction</h2>
+
+<p class="ad sd">An array is a fixed size sequenced collection of elements of the same data type.It is simply a grouping of like type data.</p>
+<p class="ad sd">In its simplest form,an array can be used to represent a list of numbers,or a list of names.</p>
+</body>
+</html>
